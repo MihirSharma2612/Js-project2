@@ -1,3 +1,3 @@
 # This is my js project and so small major issues
-
-for any other query contactme = mihirsharmamihirsharma3@gmail.com
+api issues only in this project
+for any other query contactme = mihirsharmamihirsharma3@gmail.com 
